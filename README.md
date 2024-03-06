@@ -1,2 +1,2 @@
 # Portfolio
-Site link - https://kushagrapuro.github.io/Portfolio
+My Portfolio - https://kushagrapuro.github.io/Portfolio
